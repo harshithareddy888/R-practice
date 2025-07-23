@@ -5,6 +5,8 @@ The repo consists of COT (cleaning, organising and transforms files), bias funct
 Four datasets that have nearly identical summary statictics
 Based on the summaries we created with our statistical measures, these datasets are identical, but sometimes just looking at the summarized data can be misleading. Visualization can help us understand if the data is identical or not
 
+The datasauRus creates plots with the Anscombe data in different shapes. 
+
 
 # Bias Function 
 Bias function finds the average amount that the actual outcome is greater than the predicted outcome
