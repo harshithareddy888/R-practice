@@ -1,5 +1,5 @@
 # R-practice
-The repo consists of COT (cleaning, organising and transforms files), bias function and Anseombe's quartet
+The repo for now consists of COT (cleaning, organising and transforms files), bias function and Anseombe's quartet 
 
 # Anseombe's quartet
 Four datasets that have nearly identical summary statictics
