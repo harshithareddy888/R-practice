@@ -17,4 +17,7 @@ For an unbiased model, the bias function value should be close to 0, else it's n
 # ggplot2
 The ggplot2 package lets you make high quality, customizable plots of your data. As a refresher, ggplot2 is based on the grammar of graphics, which is a system for describing and building data visualizations. The essential idea behind the grammar of graphics is that you can build any plot from the same basic components, like building blocks. 
 
-# syntax for creation a plot in 
+# syntax for creation a plot using ggplot2
+
+ggplot(data=<DATA>) +
+            <GEOM_FUNCTION>(mapping=aes(<AESTHETHIC_MAPPINGS>))
