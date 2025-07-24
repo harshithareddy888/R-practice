@@ -19,6 +19,6 @@ The ggplot2 package lets you make high quality, customizable plots of your data.
 
 # syntax for creation a plot using ggplot2
 
-ggplot(data=<DATA>) +
+            ggplot(data=<DATA>) +
 
             <GEOM_FUNCTION>(mapping=aes(<AESTHETHIC_MAPPINGS>))
