@@ -1,5 +1,5 @@
 # R-practice
-The repo for now consists of COT (cleaning, organising and transforming files), bias function and Anseombe's quartet 
+The repo for now consists of COT (cleaning, organising and transforming files), bias function and Anseombe's quartet , visualization (ggplot2)
 
 # Anseombe's quartet
 Four datasets that have nearly identical summary statictics.
@@ -13,3 +13,8 @@ The datasauRus creates plots with the Anscombe data in different shapes.
 Bias function finds the average amount that the actual outcome is greater than the predicted outcome
 
 For an unbiased model, the bias function value should be close to 0, else it's not accurate
+
+# ggplot2
+The ggplot2 package lets you make high quality, customizable plots of your data. As a refresher, ggplot2 is based on the grammar of graphics, which is a system for describing and building data visualizations. The essential idea behind the grammar of graphics is that you can build any plot from the same basic components, like building blocks. 
+
+# syntax for creation a plot in 
